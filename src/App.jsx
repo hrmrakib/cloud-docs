@@ -14,11 +14,11 @@ const App = () => {
             CV
           </a>
           <a
-            href='/R.pdf'
+            href='/CV2.pdf'
             target='_blank'
             className='border bg-blue-500 text-white rounded px-3 py-2'
           >
-            Resume
+            CV2
           </a>
         </div>
       </div>
